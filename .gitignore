@@ -1,0 +1,3 @@
+## Se establece los archivos que deben ignorarse, en este caso, el archivo con las credenciales
+
+.env
